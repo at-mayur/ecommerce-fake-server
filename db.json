@@ -1,60 +1,60 @@
 {
-  products: [
+  "products": [
     {
-      id: 1,
-      product_name: "Red Seat",
-      product_description: "Easy to install and maintain, waterproof, covers entire sitting area. No hassle at all. Our ergonomic seat with cushions that can offers support for your spine, thigh and hip. To achieve the effect of shock absorption and stress relief.",
-      product_price: 4000,
-      product_rating: 3,
-      product_image: "https://images.unsplash.com/photo-1652971101068-5b8b7ba52b7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
+      "id": 1,
+      "product_name": "Red Seat",
+      "product_description": "Easy to install and maintain, waterproof, covers entire sitting area. No hassle at all. Our ergonomic seat with cushions that can offers support for your spine, thigh and hip. To achieve the effect of shock absorption and stress relief.",
+      "product_price": 4000,
+      "product_rating": 3,
+      "product_image": "https://images.unsplash.com/photo-1652971101068-5b8b7ba52b7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
     },
     {
-      id: 2,
-      product_name: "Office Seat",
-      product_description: "Ergonomic Sitting Position : CELLBELL Desire Chair is designed to give you ultimate comfort by providing you fully adjustable chair which has Ergonomic Nylon back support, with breathable mesh to keep you sweat free, adjustable height, Smart Tilting Mechanism with locking feature and Smooth 360 degree Swivel.",
-      product_price: 19999,
-      product_rating: 4,
-      product_image: "https://images.unsplash.com/photo-1515965885361-f1e0095517ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      "id": 2,
+      "product_name": "Office Seat",
+      "product_description": "Ergonomic Sitting Position : CELLBELL Desire Chair is designed to give you ultimate comfort by providing you fully adjustable chair which has Ergonomic Nylon back support, with breathable mesh to keep you sweat free, adjustable height, Smart Tilting Mechanism with locking feature and Smooth 360 degree Swivel.",
+      "product_price": 19999,
+      "product_rating": 4,
+      "product_image": "https://images.unsplash.com/photo-1515965885361-f1e0095517ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
-      id: 3,
-      product_name: "SAMSUNG Galaxy A54 5G (Awesome Graphite, 128 GB)  (8 GB RAM)",
-      product_description: "The Samsung Galaxy A54 5G smartphone has a stunning design, thanks to its thin frame and neat camera layout. You can record life-like videos on its mesmerising camera with VDIS and auto focus. Capturing nightlife has never been easy, all thanks to the Wide OIS and image sensor featured in this smartphone. It ensures durability with the Gorilla glass and IP67 rating so that you can use your smartphone for all your adventures.",
-      product_price: 38999,
-      product_rating: 4,
-      product_image: "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      "id": 3,
+      "product_name": "SAMSUNG Galaxy A54 5G (Awesome Graphite, 128 GB)  (8 GB RAM)",
+      "product_description": "The Samsung Galaxy A54 5G smartphone has a stunning design, thanks to its thin frame and neat camera layout. You can record life-like videos on its mesmerising camera with VDIS and auto focus. Capturing nightlife has never been easy, all thanks to the Wide OIS and image sensor featured in this smartphone. It ensures durability with the Gorilla glass and IP67 rating so that you can use your smartphone for all your adventures.",
+      "product_price": 38999,
+      "product_rating": 4,
+      "product_image": "https://images.unsplash.com/photo-1591122947157-26bad3a117d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
-      id: 4,
-      product_name: "HERO Skyper 26T 26 T Mountain/Hardtail Cycle",
-      product_description: "Do you love adventure? If that's the case, this Hero Skyper cycle is meant for you. Featuring V brakes, this cycle is perfect for riding on the mountains. Its light steel frame, hand bar end grips, integrated carrier, V brakes and an ergonomic saddle will offer you a smooth and safe ride.",
-      product_price: 5974,
-      product_rating: 4,
-      product_image: "https://images.unsplash.com/photo-1583467875263-d50dec37a88c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      "id": 4,
+      "product_name": "HERO Skyper 26T 26 T Mountain/Hardtail Cycle",
+      "product_description": "Do you love adventure? If that's the case, this Hero Skyper cycle is meant for you. Featuring V brakes, this cycle is perfect for riding on the mountains. Its light steel frame, hand bar end grips, integrated carrier, V brakes and an ergonomic saddle will offer you a smooth and safe ride.",
+      "product_price": 5974,
+      "product_rating": 4,
+      "product_image": "https://images.unsplash.com/photo-1583467875263-d50dec37a88c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-      id: 5,
-      product_name: "Sansui 60 L Desert Air Cooler",
-      product_description: "Keep yourselves cool and your electricity bills low with this Sansui Glacial 60L Desert Air Cooler. It features a Uniform Flow Dispenser, separate Ice Chamber and Motorised Louvers for optimal cooling performance. Featuring Honeycomb cooling pads on the 3 sides of the cooler, it provides better water retention and enhanced cooling performance. It delivers air up to 3600 m3/hour and has an impressive air throw of 48 Ft, to ensure that it can cool even the largest of rooms at ease",
-      product_price: 6999,
-      product_rating: 5,
-      product_image: "https://images.unsplash.com/photo-1552853160-8ec65527b252?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      "id": 5,
+      "product_name": "Sansui 60 L Desert Air Cooler",
+      "product_description": "Keep yourselves cool and your electricity bills low with this Sansui Glacial 60L Desert Air Cooler. It features a Uniform Flow Dispenser, separate Ice Chamber and Motorised Louvers for optimal cooling performance. Featuring Honeycomb cooling pads on the 3 sides of the cooler, it provides better water retention and enhanced cooling performance. It delivers air up to 3600 m3/hour and has an impressive air throw of 48 Ft, to ensure that it can cool even the largest of rooms at ease",
+      "product_price": 6999,
+      "product_rating": 5,
+      "product_image": "https://images.unsplash.com/photo-1552853160-8ec65527b252?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
-      id: 6,
-      product_name: "MILTON New Tiara 900 Stainless Steel 24 Hours Hot and Cold Water Bottle 750 ml Bottle ",
-      product_description: "When it comes to drinking fresh and clean water during travelling, it is best way to carry water from home to avoid any contamination. The best way to remind yourself to drink water is to carry a bottle with you. This bottle is made of stainless steel and it is durable, user-friendly and highly functional. It not only keeps the water clean but also retains temperature for up to 24 hours. So it is not only ideal for carrying water but also for hot and cold beverages. Hence carry your favourite hot beverage for a day’s journey during winter and simple cold water or juice during summer to refresh yourself while travelling. Ideal for gifting.",
-      product_price: 914,
-      product_rating: 4,
-      product_image: "https://images.unsplash.com/photo-1617734876762-f5659a065b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      "id": 6,
+      "product_name": "MILTON New Tiara 900 Stainless Steel 24 Hours Hot and Cold Water Bottle 750 ml Bottle ",
+      "product_description": "When it comes to drinking fresh and clean water during travelling, it is best way to carry water from home to avoid any contamination. The best way to remind yourself to drink water is to carry a bottle with you. This bottle is made of stainless steel and it is durable, user-friendly and highly functional. It not only keeps the water clean but also retains temperature for up to 24 hours. So it is not only ideal for carrying water but also for hot and cold beverages. Hence carry your favourite hot beverage for a day’s journey during winter and simple cold water or juice during summer to refresh yourself while travelling. Ideal for gifting.",
+      "product_price": 914,
+      "product_rating": 4,
+      "product_image": "https://images.unsplash.com/photo-1617734876762-f5659a065b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-      id: 7,
-      product_name: "CamPure Cone Air Freshener - Sandalwood - Pack of 1 Potpourri  (1 Units)",
-      product_description: "CamPure Camphor Cone is made from an extract of the pine tree and is therefore a NATURAL and ORGANIC product. There is no harmful toxic chemicals such as DEET, PDCB, Naphthalene or any other petrochemicals which are potentially cancer causing. Our camphor cone fresheners are great to use as room fresheners, car fresheners, bathroom fresheners or wardrobe fresheners. Enjoy its refreshing fragrance as it repels mosquitoes and even preserves your clothes (doesn’t stain your clothes).",
-      product_price: 199,
-      product_rating: 5,
-      product_image: "https://images.unsplash.com/photo-1470162015499-2b9772941cde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1179&q=80"
+      "id": 7,
+      "product_name": "CamPure Cone Air Freshener - Sandalwood - Pack of 1 Potpourri  (1 Units)",
+      "product_description": "CamPure Camphor Cone is made from an extract of the pine tree and is therefore a NATURAL and ORGANIC product. There is no harmful toxic chemicals such as DEET, PDCB, Naphthalene or any other petrochemicals which are potentially cancer causing. Our camphor cone fresheners are great to use as room fresheners, car fresheners, bathroom fresheners or wardrobe fresheners. Enjoy its refreshing fragrance as it repels mosquitoes and even preserves your clothes (doesn’t stain your clothes).",
+      "product_price": 199,
+      "product_rating": 5,
+      "product_image": "https://images.unsplash.com/photo-1470162015499-2b9772941cde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1179&q=80"
     },
   ]
 }
